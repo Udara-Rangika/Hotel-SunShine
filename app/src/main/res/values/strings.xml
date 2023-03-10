@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Hotel Sunshine</string>
+    <string name="txt1">Room Packages</string>
+    <string name="float1" />
+    <string name="imgbtn1" />
+    <string name="txt2">Silver</string>
+    <string name="txt3">$8</string>
+    <string name="txt4">Gold</string>
+    <string name="txt5">$10</string>
+    <string name="imgBtn3" />
+    <string name="imgBtn2" />
+    <string name="txt6">Diamond</string>
+    <string name="txt7">$18</string>
+    <string name="txt8">Room Info</string>
+    <string name="txt9">Silver</string>
+    <string name="txt10">4.9</string>
+    <string name="txt11">Information :</string>
+    <string name="txt12">● 1 Bedrooms</string>
+    <string name="txt13">● 1 In-room Tea and Coffee</string>
+    <string name="txt14">Price</string>
+    <string name="txt15">$8</string>
+    <string name="btn1">BOOK NOW</string>
+    <string name="btn2">BOOK NOW</string>
+    <string name="btn3">BOOK NOW</string>
+    <string name="txt17">Gold</string>
+    <string name="txt18">$10</string>
+    <string name="txt19">Diamond</string>
+    <string name="txt20">$18</string>
+    <string name="txt21">Book Now</string>
+    <string name="txt22">Reservations Info</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_mobile">Please Enter a Valid Number</string>
+    <string name="invalid_email">Enter Valid Email</string>
+    <string name="viewAllButton">View All</string>
+    <string name="tv1" />
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/home_menu"
+            android:icon="@drawable/home_vector"
+            android:title="Home"/>
+
+        <item android:id="@+id/reservation_menu"
+            android:icon="@drawable/ic_baseline_hotel_24"
+            android:title="Reservations"/>
+
+        <item android:id="@+id/payment_menu"
+            android:icon="@drawable/ic_baseline_monetization_on_24"
+            android:title="Payments"/>
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Authentication">
+            <menu>
+                <item android:id="@+id/login_menu"
+                    android:icon="@drawable/ic_baseline_login_24"
+                    android:title="Log In"/>
+
+                <item android:id="@+id/logout_menu"
+                    android:icon="@drawable/ic_baseline_exit_to_app_24"
+                    android:title="Log Out"/>
+            </menu>
+        </item>
+    </group>
+
+</menu>
